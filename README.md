@@ -1,238 +1,238 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:00BCF2&height=200&section=header&text=Atharv%20Gupta&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Azure%20AI%20Engineer%20%E2%80%A2%20IoT%20Builder%20%E2%80%A2%20IEEE%20Researcher&descAlignY=58&descColor=d0eeff" width="100%"/>
+<!-- GitHub Profile README for atharvguitarist -->
+<!-- Calm Generalist Developer Landing Page · v11 -->
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=0078D4&center=true&vCenter=true&width=600&lines=Associate+System+Engineer+%40+IBM+%F0%9F%92%BC;AZ-104+%2B+AI-102+Azure+Certified+%E2%98%81%EF%B8%8F;IEEE+Published+%E2%80%94+98.7%25+AI+Accuracy+%F0%9F%94%AC;Building+real+products%2C+not+just+repos+%F0%9F%94%A7)](https://git.io/typing-svg)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=140&color=0:0D1117,45:2A1F2D,100:C9A27E&text=&fontColor=ffffff" alt="calm gradient banner" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvguitarist)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white)](https://atharvguitarist.github.io)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvg06@gmail.com)
-[![Resume](https://img.shields.io/badge/-Resume-00897B?style=for-the-badge&logo=googledrive&logoColor=white)](#)
+<h1>Hi, I am Atharv Gupta</h1>
+
+<h3>Generalist Software Engineer · AI-first Builder · Backend · Cloud · IoT · Automation</h3>
+
+<img width="55%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,45:C9A27E,100:0D1117&section=header" alt="soft gradient divider" />
 
 <br/>
 
-![Profile Views](https://komasutra.vercel.app/api?username=atharvguitarist&color=0078D4&style=flat-square&label=Profile+Views)
-&nbsp;
-![GitHub followers](https://img.shields.io/github/followers/atharvguitarist?style=flat-square&color=0078D4&label=Followers)
-&nbsp;
-![GitHub stars](https://img.shields.io/github/stars/atharvguitarist?style=flat-square&color=0078D4&label=Total+Stars)
+<sub>
+I build useful systems across software, AI, cloud, automation and hardware — practical, fast and product-minded.
+</sub>
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=C9A27E&center=true&vCenter=true&width=850&lines=Associate+System+Engineer+%40+IBM;Microsoft+AZ-104+%2B+AI-102+Certified;Generalist+Developer+with+AI-first+execution;Building+backend%2C+cloud%2C+automation+and+IoT+systems)](https://git.io/typing-svg)
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvguitarist)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Selected_Work-2A1F2D?style=for-the-badge&logo=vercel&logoColor=white)](https://atharvguitarist.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-atharvg06%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvg06@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Available_on_LinkedIn-C9A27E?style=for-the-badge&logo=readme&logoColor=111111)](https://linkedin.com/in/atharvguitarist)
 
 </div>
 
 ---
-
-<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
 
 ## `$ whoami`
 
+<table>
+<tr>
+<td width="62%" valign="top">
+
 ```yaml
-name     : Atharv Gupta
-role     : Associate System Engineer @ IBM
-city     : Noida, India 🇮🇳
-degree   : B.Tech CSE — Amity University, 2025
+name: Atharv Gupta
+role: Associate System Engineer @ IBM
+education: B.Tech CSE · Amity University · 2025
+location: Noida, India
 
-certified:
-  - "AZ-104 · Azure Administrator Associate"
-  - "AI-102 · Azure AI Engineer Associate"
+profile:
+  type: Generalist Software Engineer
+  edge: AI-first execution
+  style: practical builder, fast learner, product-minded
 
-research : "IEEE — VerifyMe (98.7% accuracy, 500+ test cases)"
-hardware : "ESP32 IoT products deployed in real homes"
-building : "Smart Doorbell product — launching soon 🔔"
+working_across:
+  - backend and full-stack systems
+  - AI / ML / computer vision applications
+  - cloud, DevOps and deployment workflows
+  - IoT, automation and hardware-backed products
 
-open_to  : "Senior SDE / Cloud / AI Engineering — 10+ LPA"
-fun_fact : "I've shipped 100+ projects across AI, IoT, Law & MBA"
+certifications:
+  - Microsoft AZ-104 · Azure Administrator Associate
+  - Microsoft AI-102 · Azure AI Engineer Associate
 ```
 
-<br clear="right"/>
-
----
-
-## ⚡ What I Actually Ship
-
-<table width="100%">
-<tr>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/☁️-Cloud%20%26%20DevOps-0078D4?style=flat-square" /><br/><br/>
-<b>Azure · Jenkins · CI/CD</b><br/>
-<sub>Reduced deploy time 30%.<br/>Migrated 700+ Jenkins jobs<br/>to AWS — zero downtime.</sub>
 </td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/🤖-AI%20%26%20Vision-5C3EE8?style=flat-square" /><br/><br/>
-<b>YOLOv8 · DeepFace · Gemini</b><br/>
-<sub>Vehicle speed detection,<br/>identity verification,<br/>ATS resume analysis.</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/🔌-IoT%20%26%20Hardware-E7352C?style=flat-square" /><br/><br/>
-<b>ESP32 · SSR · LVGL</b><br/>
-<sub>₹5k solutions replacing<br/>₹50k products. Real homes.<br/>Real deployment.</sub>
-</td>
-<td width="25%" align="center">
-<img src="https://img.shields.io/badge/🌐-Full%20Stack%20%26%20AI-339933?style=flat-square" /><br/><br/>
-<b>Backend · APIs · LLMs</b><br/>
-<sub>100+ freelance projects.<br/>IEEE research papers.<br/>AI-first architecture.</sub>
+<td width="38%" align="center" valign="middle">
+
+<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="210" alt="GitHub Octocat" />
+
+<br/>
+
+<sub>builder mode: always on</sub>
+
 </td>
 </tr>
 </table>
 
 ---
 
-## 🏆 Career Highlights
+## Tech Stack
 
 <div align="center">
 
-| &nbsp; | Achievement | Impact |
-|:---:|---|---|
-| 🏭 | **IBM** — Associate System Engineer | Java · MSO · Integration & Migration · Sept 2025–Now |
-| 🔧 | **Wipro** — Cloud DevOps Intern | 30% faster deployments · 700+ Jenkins jobs migrated |
-| 🤖 | **Blubirch** — AI Intern | Defect detection model trained on 7,000 images |
-| 🔬 | **IEEE Published** — VerifyMe | 98.7% match accuracy · 1.1s processing · 500+ test cases |
-| ☁️ | **AZ-104 Certified** | Microsoft Azure Administrator Associate · July 2025 |
-| 🧠 | **AI-102 Certified** | Microsoft Azure AI Engineer Associate · July 2025 |
-| 🌟 | **SpeedVision** | 11 GitHub stars · 3 forks · YOLO-based speed detection |
-| 🏗️ | **IoT Product** | Smart doorbell from scratch — ESP32 + PIR + OTA |
-| 👥 | **Community Lead** | Co-founded Brainstorm Club · 30+ events · 50-member team |
+### Core Development
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111111)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-2A1F2D?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### AI / ML / Computer Vision
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-C9A27E?style=for-the-badge&logo=google&logoColor=111111)
+
+### Cloud / DevOps
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-2563EB?style=for-the-badge&logo=azuredevops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-C9A27E?style=for-the-badge&logo=linux&logoColor=111111)
+
+### Web / Tools / Embedded
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-2A1F2D?style=for-the-badge&logo=github&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-C9A27E?style=for-the-badge&logo=espressif&logoColor=111111)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![SpeedVision](https://github-readme-stats.vercel.app/api/pin/?username=atharvguitarist&repo=SpeedVision&theme=tokyonight&hide_border=true)](https://github.com/atharvguitarist/SpeedVision)
-&nbsp;
-[![ATS Analyser](https://github-readme-stats.vercel.app/api/pin/?username=atharvguitarist&repo=ATS-Resume-Analyser-via-Gemini-Pro&theme=tokyonight&hide_border=true)](https://github.com/atharvguitarist/ATS-Resume-Analyser-via-Gemini-Pro)
-
-</div>
-
-<br/>
-
-<details>
-<summary><b>📂 View all featured work</b></summary>
-<br/>
-
-| Project | Stack | Highlights |
-|---|---|---|
-| 🚗 **SpeedVision** | Python · YOLOv8 · OpenCV | Real-time vehicle speed from video · 11 ⭐ |
-| 🧠 **VerifyMe** (IEEE) | Python · DeepFace · MediaPipe | 98.7% accuracy · Published research |
-| 📄 **ATS Resume Analyser** | Python · Gemini Pro | JD match scoring + gap analysis |
-| 👗 **Fashion Classifier** | Python · Keras · TensorFlow | Multi-class clothing recognition |
-| 🎵 **Song Recommender** | Python · ML | Content-based recommendation engine |
-| 🔌 **Smart IoT Switchboard** | ESP32-S3 · LVGL · SSR | ₹5k vs ₹50k commercial equivalent |
-| 🔔 **Smart Doorbell** *(soon)* | ESP32-WROOM · PIR · OTA | Original product — launching soon |
-
-</details>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Cloud & DevOps**
-
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square&logo=azuredevops&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**AI / ML / Computer Vision**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini%20Pro-4285F4?style=flat-square&logo=google&logoColor=white)
-
-**Languages & Backend**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**IoT & Hardware**
-
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=atharvguitarist&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvguitarist&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=320" />
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=atharvguitarist&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=atharvguitarist&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/atharvguitarist)
-
-</div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
+## Selected Builds
 
 <table>
 <tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/AZ--104-Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/>
-<sub><b>Azure Administrator Associate</b><br/>July 2025</sub>
+<td width="50%" valign="top">
+
+### SpeedVision
+Computer vision system for vehicle speed detection from video footage.
+
+**Stack:** Python · YOLOv8 · OpenCV  
+**Signal:** Practical AI applied to traffic analytics.  
+**Repo:** [View project](https://github.com/atharvguitarist/SpeedVision)
+
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/AI--102-Azure%20AI%20Engineer-5C2D91?style=for-the-badge&logo=microsoftazure&logoColor=white" /><br/>
-<sub><b>Azure AI Engineer Associate</b><br/>July 2025</sub>
+<td width="50%" valign="top">
+
+### ATS Resume Analyser
+LLM-powered resume screening system for job description matching.
+
+**Stack:** Python · Gemini Pro · Streamlit · NLP  
+**Signal:** AI workflow for real hiring use-cases.  
+**Repo:** [View project](https://github.com/atharvguitarist/ATS-Resume-Analyser-via-Gemini-Pro)
+
 </td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/AI--First-Backend%20Engineering-00897B?style=for-the-badge&logo=airtable&logoColor=white" /><br/>
-<sub><b>AI-First Backend Engineering</b><br/>Airtribe</sub>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### VerifyMe
+AI identity verification research using face analysis and computer vision.
+
+**Stack:** Python · DeepFace · MediaPipe  
+**Signal:** IEEE-published work with reported **98.7%** accuracy across **500+** test cases.
+
+</td>
+<td width="50%" valign="top">
+
+### Smart Doorbell / Smart Switchboard
+Original smart home system with embedded hardware, relay control, sensors and OTA.
+
+**Stack:** ESP32 · PIR · Microwave Sensor · PCF IO Expander · SSR · OTA · CrowPanel 7.0  
+**Signal:** Product-grade IoT thinking while keeping core IP private.
+
 </td>
 </tr>
 </table>
+
+---
+
+## Publications
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### VerifyMe
+IEEE-published AI identity verification work based on face analysis and computer vision.
+
+**Focus:** AI verification · computer vision · accuracy testing  
+**Result:** Reported 98.7% accuracy across 500+ test cases
+
+</td>
+<td width="50%" valign="top">
+
+### Technical Research & Reports
+Research-driven writing across AI, software engineering, management systems and domain-specific academic projects.
+
+**Focus:** structured research · technical documentation · implementation-first writing  
+**Signal:** Ability to understand unfamiliar domains and convert them into clear deliverables.
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=atharvguitarist&show_icons=true&theme=transparent&hide_border=true&title_color=C9A27E&text_color=E6EDF3&icon_color=C9A27E&count_private=true&include_all_commits=true&rank_icon=github" />
+&nbsp;&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvguitarist&layout=compact&theme=transparent&hide_border=true&title_color=C9A27E&text_color=E6EDF3&langs_count=8" />
+
+<br/><br/>
+
+<img width="78%" src="https://streak-stats.demolab.com?user=atharvguitarist&theme=transparent&hide_border=true&ring=C9A27E&fire=C9A27E&currStreakLabel=C9A27E&sideNums=E6EDF3&currStreakNum=E6EDF3&dates=8B949E" />
+
+<br/><br/>
+
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=atharvguitarist&bg_color=0D1117&color=E6EDF3&line=C9A27E&point=F2D7B6&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 
 </div>
 
 ---
 
-## 🤝 Open to Opportunities
-
 <div align="center">
 
-<br/>
-
-I'm actively looking for **Senior SDE · Cloud/DevOps Engineer · AI/ML Engineer** roles at product-first companies.
-
-If you're hiring or want to build something real together — let's talk.
-
-<br/>
-
-[![Let's connect](https://img.shields.io/badge/Let's%20Connect%20on%20LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvguitarist)
-&nbsp;
-[![Send an email](https://img.shields.io/badge/Send%20Me%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvg06@gmail.com)
+<img width="55%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,45:C9A27E,100:0D1117&section=footer" alt="soft gradient divider" />
 
 <br/><br/>
 
-</div>
+### Open to Software Engineer · Backend Engineer · Cloud Engineer · AI Engineer roles
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCF2,100:0078D4&height=120&section=footer" width="100%"/>
+I’m interested in teams building practical software products, automation platforms, cloud-native systems, developer tools, applied AI systems and hardware-backed products.
+
+<br/>
+
+[![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/atharvguitarist)
+[![Email Me](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvg06@gmail.com)
+
+</div>
