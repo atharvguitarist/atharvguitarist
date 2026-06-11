@@ -46,7 +46,7 @@ what_i_move_in:
 certifications:
   - AZ-104 · Azure Administrator Associate ☁️
   - AI-102 · Azure AI Engineer Associate 🤖
-  # expired the other 2-3 
+  # expired the others (genius isn't it?)
 ```
 
 </div>
