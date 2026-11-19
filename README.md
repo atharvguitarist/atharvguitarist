@@ -22,7 +22,7 @@
 
 ## `$ whoami`
 
-<img align="right" width="38%" src="https://raw.githubusercontent.com/atharvguitarist/atharvguitarist/main/octocat-atharv.svg" alt="Atharv's Octocat"/>
+<img align="right" width="34%" src="https://raw.githubusercontent.com/atharvguitarist/atharvguitarist/main/octocat-atharv.svg" alt="Atharv's Octocat"/>
 
 <div style="width:58%">
 
@@ -92,8 +92,8 @@ certifications:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=atharvguitarist&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=7C3AED&text_color=E6EDF3&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvguitarist&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=E6EDF3&langs_count=6&hide=cython,fortran,meson,smarty,powershell,scss,makefile,shell,roff,m4,dockerfile,assembly,batchfile" alt="Most used languages" />
+<img height="210" src="https://github-readme-stats.vercel.app/api?username=atharvguitarist&show_icons=true&theme=transparent&hide_border=true&title_color=00E5FF&icon_color=7C3AED&text_color=E6EDF3&rank_icon=github" alt="GitHub stats" />
+<img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atharvguitarist&layout=compact&theme=transparent&hide_border=true&title_color=00E5FF&text_color=E6EDF3&langs_count=6&hide=cython,fortran,meson,smarty,powershell,scss,makefile,shell,roff,m4,dockerfile,assembly,batchfile" alt="Most used languages" />
 
 <br><br>
 
